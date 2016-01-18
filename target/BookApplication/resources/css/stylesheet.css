@@ -1,0 +1,18 @@
+
+.brd {
+    border: 2px dotted black;
+    background: #def6ff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.brd-default {
+    border: 1px double #848484;
+    background: #fefff6;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.str {
+    font-family: century gothic;
+}
